@@ -1,0 +1,98 @@
+body{
+    background-color: #ffcc2a;
+}
+
+.features{
+    background-color: white;
+}
+
+h1{
+    font-family: 'Londrina Solid', sans-serif;
+}
+
+.nav-link{
+    text-decoration: none   ;
+    color: #1f4178;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    transition: 0.5s;
+
+}
+
+h3{
+    color: #1f4178;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+.statistics{
+    background-color: #1e437e;
+}
+
+.anim{
+   font-size: 2.3rem;
+   font-weight: bold; 
+   color: #FCF4DB;   
+}
+
+.anim-text{
+    font-size: 1.3rem;
+    color: #E9BE29;
+}
+
+h2{
+    font-family: 'Barlow';
+    font-weight: bold;
+}
+.testimonials{
+    background-color: #1f4178;
+    background: linear-gradient(20deg,#1f4178,#666e79);
+    text-align: center;
+    color: white;
+}
+
+.testimonial-img{
+    height: 90px;
+    width: 110px;
+    border-radius: 50%;
+}
+
+.album{
+    text-align: center;
+}
+
+.card-text{
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+
+.whats-app {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 40px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    right: 15px;
+    z-index: 100;
+}
+
+.contact{
+    background-color:white;
+}
+
+.attr-text{
+    font-size: small;
+}
+
+.phone{
+    font-family: 'Roboto';
+    padding: 0;
+    margin: 0;
+}
