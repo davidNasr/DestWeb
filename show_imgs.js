@@ -31,7 +31,7 @@ switch(hotelName){
     case "Golden Plaza": imgCount=72; break;
     case "Sea Horse": imgCount=16; break;
     case "Wahet Siwa": imgCount=17; break;
-    case "Siwa Palace": imgCount=106; break;
+    case "Siwa Palace": imgCount=10; break;
 }
 
 for (let i = 1; i <= imgCount; i++) {
